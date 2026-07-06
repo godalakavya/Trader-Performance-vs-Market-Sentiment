@@ -34,6 +34,8 @@ The objective of this project is to:
 "Due to dataset size/licensing, the historical trader dataset is not included. It can be downloaded from the link provided in the assignment."
 
 https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
+
+
 **Columns Used**
 - Account
 - Coin
