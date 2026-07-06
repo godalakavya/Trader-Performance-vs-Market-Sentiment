@@ -21,14 +21,19 @@ The objective of this project is to:
 
 ## Dataset Information
 
+
 ### 1. Bitcoin Market Sentiment Dataset
 
 **Columns Used**
 - Date
 - Classification (Fear, Greed, Neutral, Extreme Fear, Extreme Greed)
+- https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view
 
 ### 2. Hyperliquid Historical Trader Dataset
 
+"Due to dataset size/licensing, the historical trader dataset is not included. It can be downloaded from the link provided in the assignment."
+
+https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
 **Columns Used**
 - Account
 - Coin
